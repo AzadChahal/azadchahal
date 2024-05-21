@@ -1,6 +1,6 @@
-## Azad Chahal, PhD in Agricultural and Biological Engineering II Penn State👋
+## Azad Chahal, PhD II Agricultural and Biological Engineering II Penn State👋
 
-- 🔭 I’m currently working on Digitalization Farmimg and Solutions 
+- 🔭 I’m currently working on Digitalization Farming and Solutions 
 - 👯 I’m looking to collaborate on project regarding data science on Farm Managements
 - 🌱 I’m currently learning GIS Software Development
 - 🤔 I’m looking for help with Ag Data science projects
