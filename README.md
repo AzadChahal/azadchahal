@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-**AzadChahal/azadchahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
+**AzadChahal/azadchahal** 
 - 🔭 I’m currently working on Digitalization Farmimg and Solutions 
 - 👯 I’m looking to collaborate on project regarding data science on Farm Managements
 - 🌱 I’m currently learning GIS Software Development
