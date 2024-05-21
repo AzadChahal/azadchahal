@@ -15,6 +15,9 @@ Azad Chahal, PhD II Agricultural and Biological Engineering II Penn State👋
 - [leafmap](https://leafmap.org): A Python package for interactive mapping with folium, ipyleaflet, and ipwidgets.
 
 ## Demos (How to add images), 
-This is a funny face!
+Ag _ Science_ Data!
 
-![GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+![Image](https://waller.agrilife.org/welcome-to-waller-county/agriculture-2/)
+
+You have to plant first!
+![Planting](https://www.utsa.edu/today/2024/images/regenerative-agriculture-_680.png) 
