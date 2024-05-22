@@ -106,10 +106,67 @@ Free Software: BSD license
     - Git: Can connect to git hub. Can help pull changes
     - Conda: Helps to create virtual environments. To test the features
 
-- Testing in Terminal
+- Install packages 
+    - Testing in Terminal
     - (base): 
     - conda hit enter, no error then it's good
-    - 
+    - ![Terminal Environment](image-2.png)
+    - To check the environments, ```conda env list```
+    - To create a new environment, ``` conda create  -n geo python ```
+    - To activate a package, ```conda activate geo```
+    - ![Virtual environment](image-3.png)
+    - To install a new package, ```conda install - c conda - forge mamba```
+    - To install a package from Git ```pip install git+ url```
+    - To install package locally 
+        - '''down zip, 
+        - unzip the directory by extract all
+        - project folder
+        - go the files and click to open the Terminal, 
+        - Or copy the path of the directory
+        - Go to Terminate, having your conda directory activated
+        - cd + paste the navigation
+        - Next line type ``dir```
+        - type ``` pip install .``` Period mean install from local computer
+    - To upgrade the package ```pip install -U package name```
+ 
+ 4. The name of the package (thescienceai or digitaldataai)
+
+ 5. Python Packages repository
+    - PyPi: https://pypi.org/
+        - numpy.org
+
+    - Condaforge: https://conda-forge.org
+
+6. Create your website from GitHub
+    - Create a new repository
+    - Set unique username: abc
+    - License Type: MIT license
+    - Finally go to Action Tab and wait it got deployed
+    - Website template available now: https;//html5up.net/
+    - If interested (not required) get domain name from GoDaddy website
+  
+7. GitHub Profile
+    - Create a new repository
+    - Repository Name: abc
+    - Description
+    - Checkmark "Add a README file
+    - Choose a license
+    - Create repository
+
+8. Python package with a cookiecutter template (https://www.youtube.com/watch?v=Z2d1Kw1xSVY)
+    - Sample Repository: https://github.com/opengeos/cookiecutter-pypackage
+    - Create a bunch of templates to create a Python package
+        - pyproject.toml (This shows you all the dependencies)
+        - docs (Holds the website - can be done in Mackdowns)
+        - Steps: 
+            0. Install the packages with your Terminal or Anaconda Prompt
+                - pip install cookiecutter bump-my-version
+            1. Create the Package Structure
+                - conda activate geo
+                - paste: cookiecutter gh:opengeos/cookiecutter-pypackage
+                - Once the package been built, look for it in your computer (navigation on Terminal could help!)
+            2. Initialize and Commit to Git
+
 
 
 
