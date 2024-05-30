@@ -13,6 +13,9 @@ Azad Chahal, PhD II Agricultural and Biological Engineering II Penn State👋
 - GIS Software Development: A Python package for interactive mapping with Google Earth Engine
 - [geemap](https://geemap.org): A Python package for interactive mapping of Google Earth engine 
 - [leafmap](https://leafmap.org): A Python package for interactive mapping with folium, ipyleaflet, and ipwidgets.
+- GitHub Profile repository: azadchahal (https://github.com/AzadChahal/azadchahal) 
+- Personal Website (azadchahal.github.io) repository from GitHub : azadchahal.github.io (https://github.com/AzadChahal/azadchahal.github.io)
+- Python Package Repository; digitaldatai: https://github.com/AzadChahal/digitaldatai
 
 ## Demos (How to add images), 
 Ag _ Science_ Data!
