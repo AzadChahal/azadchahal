@@ -171,7 +171,8 @@ Free Software: BSD license
             2. Initialize and Commit to Git
 
 
-9. **Python Basics**
+9. **Python Basics** 
+    - Follow my Websites for Python Basics ```https://azadchahal.github.io/digitaldatai/```
     - 01 Getting Started (Jupyter Notebook Keyboard Shortcuts)
         - Shift-Enter: run cell, select below
         - Ctrl- Enter: run selected cells 
@@ -180,9 +181,7 @@ Free Software: BSD license
         - Shift-Tab: tooltip
         - Matplotlob plotting: %matplotlib inline
 
-        Reference: Matthes, Eric (2022). Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming. No Starch Press.ISBN: 978-1593279288. 
-    - 02 Variable data types
-        - 
+        Reference: Matthes, Eric (2022). Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming. No Starch Press.ISBN: 978-1593279288.
     
 
 
