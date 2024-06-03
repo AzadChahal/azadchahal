@@ -172,6 +172,7 @@ Free Software: BSD license
 
 
 9. **Python Basics**
+    01 Getting Started
     Jupyter Notebook Keyboard Shortcuts
         - Shift-Enter: run cell, select below
         - Ctrl- Enter: run selected cells 
