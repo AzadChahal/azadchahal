@@ -163,7 +163,7 @@ Free Software: BSD license
         - docs (Holds the website - can be done in Mackdowns)
         - Steps: 
             0. Install the packages with your Terminal or Anaconda Prompt
-                - pip install cookiecutter bump-my-version
+                - ```pip install cookiecutter bump-my-version```
             1. Create the Package Structure
                 - conda activate geo
                 - paste: cookiecutter gh:opengeos/cookiecutter-pypackage
