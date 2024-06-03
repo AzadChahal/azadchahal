@@ -171,7 +171,8 @@ Free Software: BSD license
             2. Initialize and Commit to Git
 
 
-9. **Python Basics**
+9. Python Basics
+
     01 Getting Started
     Jupyter Notebook Keyboard Shortcuts
         - Shift-Enter: run cell, select below
