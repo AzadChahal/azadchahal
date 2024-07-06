@@ -244,10 +244,11 @@ Free Software: BSD license
             - A constant is like a variable whose value stays the same throughout the life of the program.Python doesn't have built-in constant types, but Python programers use all capital letters to indicate a variable should be treated as a constant and never be changed
             - ![Constants](image-19.png)
         - Comments
-            - In Python, the hash mark (#) indicates a comment. Anything following a hash mark in your code is ignored by the Python interpreter.
+            - In Python, 
+            - '''the hash mark (#)''' indicates a comment. Anything following a hash mark in your code is ignored by the Python interpreter.
             - Shortcut for making comments in Jupyter Notebook: Ctrl+/
 
-        - July 06 Test
+
             
 
 
