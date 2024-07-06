@@ -246,8 +246,8 @@ Free Software: BSD license
         - Comments
             - In Python, the hash mark (#) indicates a comment. Anything following a hash mark in your code is ignored by the Python interpreter.
             - Shortcut for making comments in Jupyter Notebook: Ctrl+/
-        
 
+        - July 06 Test
             
 
 
