@@ -245,8 +245,113 @@ Free Software: BSD license
             - ![Constants](image-19.png)
         - Comments
             - In Python, 
-            - '''the hash mark (#)''' indicates a comment. Anything following a hash mark in your code is ignored by the Python interpreter.
+            - ```the hash mark (#) ``` indicates a comment. Anything following a hash mark in your code is ignored by the Python interpreter.
             - Shortcut for making comments in Jupyter Notebook: Ctrl+/
+
+    - 03 Introduction to Lists
+        - What is List
+        - Changing, Adding, and Removing Elements
+        - Organizing a List
+        - Avioding Index Errors When Working with Lists
+            
+            - Python have a built-in method called as type which generally come in handy while figuring out the type of variable used in the program in the runtime.
+            - If a single argument (object) is passed to type() built-in, it returns type of the given object. If three arguments (name, bases and dict) are passed, it returns a new type object. 
+
+            - ``` x = 5```
+            - ```s = "geeksforgeeks"```
+            - ```y = [1, 2, 3]```
+            - ``` print(type(x))```
+            - ```print(type(s))```
+            - ```print(type(y))```
+
+            - Results
+            - ```<class 'int'>```
+            - ```<class 'str'>```
+            - ```<class 'list'>```
+
+            - In Python, ```sqaure bracket []``` indicate a list, and individual elements in the list are seperated by commas. Here's a simple example of a list that contains a few kinds of bicyles: 
+
+            - ![List 01 image](image-21.png)) 
+            
+            - Assessing Elements in a list
+            - ![List image 02](image-22.png)
+             
+            - You can format the element 'trek' more neatly by using the title() method: 
+            - ![List03](image-23.png)
+            
+            - Index Position Start at 0, Not 1
+            - ![List 04](image-24.png)
+
+            - Using Individual Values from a List
+            - ![List 04](image-25.png)
+
+            - Modifying Elements in a list
+            - ![List 05](image-26.png)
+
+            - Adding Elements to a list
+            - ![List 06](image-27.png)
+
+            - Inserting Elements into a List
+            - ![List 07](image-28.png)
+
+            - Removing Elements from a List
+            - ![List 08](image-29.png)
+
+            - Removing an Item using the pop() Method
+            - ![List 09](image-30.png)
+
+            - Popping Items from any position in a list ```pop()```
+            
+            - Removing an Item by value ```remove()```
+
+            - Organizing a list
+                - Sorting a list permanently with the ```sort() ``` method
+                - Sorting a lsit temporarily with the ```sorted()``` function
+
+            - Printing a List in Reverse Order ```.reverse```
+            
+            - Finding the length of a list ```len()```
+
+    - 04 Working with Lists
+        - Looping through an entire list
+        - Avoiding indentation errors
+        - Making Numerical Lists
+        - Working with Part of a List
+        - Tuples
+        - Styling Your Code
+
+
+        -   Looping through an entire list ```magicians = ["alice", "david", "carolina"]```
+                                        ```for magician in magicians:```
+                                         ```print(magician)```
+            
+            - Doing More work within a for loop
+            - Doing somthing after a for loop
+
+        - Avoiding Identation Errors
+            - Forget to Ident: Always indent the line after the ```for``` statement in a loop.
+            - Forget to Ident additional lines
+            - Identing Unnecessarily
+
+        - Making Numercial Lists
+            - Using the range()Function ```for value in range (1,5):```
+                                        ```print(value)```
+            - Using range() to make a List of Numbers
+            - 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
             
