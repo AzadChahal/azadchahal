@@ -183,7 +183,7 @@ Free Software: BSD license
 
         Reference: Matthes, Eric (2022). Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming. No Starch Press.ISBN: 978-1593279288.
 
-    - 02 variables data type
+    - **02 variables data type**
         - In this part you'll learn about the different kind of data you work with in your Python programs. You'll also learn how to use variables to represent data in your programs
             - Variables
             - Strings
@@ -248,7 +248,7 @@ Free Software: BSD license
             - ```the hash mark (#) ``` indicates a comment. Anything following a hash mark in your code is ignored by the Python interpreter.
             - Shortcut for making comments in Jupyter Notebook: Ctrl+/
 
-    - 03 Introduction to Lists
+    - **03 Introduction to Lists**
         - What is List
         - Changing, Adding, and Removing Elements
         - Organizing a List
@@ -312,7 +312,7 @@ Free Software: BSD license
             
             - Finding the length of a list ```len()```
 
-    - 04 Working with Lists
+    - **04 Working with Lists**
         - Looping through an entire list
         - Avoiding indentation errors
         - Making Numerical Lists
