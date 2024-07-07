@@ -172,8 +172,10 @@ Free Software: BSD license
 
 
 9. **Python Basics** 
-    - Follow my Websites for Python Basics ```https://azadchahal.github.io/digitaldatai/```
-    - 01 Getting Started (Jupyter Notebook Keyboard Shortcuts)
+    
+    - **01 Getting Started** 
+        - ```https://azadchahal.github.io/digitaldatai/```
+        - (Jupyter Notebook Keyboard Shortcuts)
         - Shift-Enter: run cell, select below
         - Ctrl- Enter: run selected cells 
         - Alt-Enter: run cell and insert below
@@ -190,27 +192,33 @@ Free Software: BSD license
             - Numbers
             - Comments
 
-       - Variables
-            - Variables: Variables names can contain only letters, and underscores. They can start with a letter or an underscore, but not with a number. 
-            - For instance, 
-                - you can call a variable ```message_1``` but not ```1_message```. 
-                - ```greeting_message``` is good but ```greeting message``` will cause errors.
-                - Avoid using Python keywords and function names as variable names; Python keywords: https://www.programiz.com/python-programming/keyword-list
-                - Variable names should be short but descriptive. For example, name is better than n, student_name is better than s_n, and name_length is better than length_of_persons_name.
-                - Be careful when using the lowercase letter l and the uppercase letter O because they could be confused with the numbers 1 and 0.
-            - Note: The Python variables you’re using at this point should be lowercase. You won’t get errors if you use uppercase letters, but uppercase letters in variable names have special meanings that we’ll discuss in later chapters.
-            - Some Examples: 
+       - _Variables_: Variables names can contain only letters, and underscores. They can start with a letter or an underscore, but not with a number. For instance, 
+
+            - you can call a variable ```message_1``` but not ```1_message```. 
+
+            - ```greeting_message``` is good but ```greeting message``` will cause errors.
+
+            - Avoid using Python keywords and function names as variable names; Python keywords: https://www.programiz.com/python-programming/keyword-list
+
+            - Variable names should be short but descriptive. For example, name is better than n, student_name is better than s_n, and name_length is better than length_of_persons_name.
+            - Be careful when using the lowercase letter l and the uppercase letter O because they could be confused with the numbers 1 and 0.
+            
+            Note: The Python variables you’re using at this point should be lowercase. You won’t get errors if you use uppercase letters, but uppercase letters in variable names have special meanings that we’ll discuss in later chapters.
+
+            Some Examples: 
+
             - ![Variable 01](image-4.png)
             - ![variable 02](image-5.png)
             
-        - Strings
-            - A _string_ is a series of characters. Anything inside quotes is considered a string in Python, and you can use single or double quotes around your strings like this:
-                - ```"This is a string."```
-                - ```'This is also a string.'```
-                - This flexibility allows you to use quotes and apostrophes within your strings 
-                - ```'I told my friend, "Python is my favorite language!"'```
-               - ```"The language 'Python' is named after Monty Python, not the snake."```
-               - ```"One of Python's strengths is its diverse and supportive community."```
+        - _Strings_ : A _string_ is a series of characters. Anything inside quotes is considered a string in Python, and you can use single or double quotes around your strings like this:
+
+            - ```"This is a string."```
+            - ```'This is also a string.'```
+
+            - This flexibility allows you to use quotes and apostrophes within your strings 
+            - ```'I told my friend, "Python is my favorite language!"'```
+            - ```"The language 'Python' is named after Monty Python, not the snake."```
+            - ```"One of Python's strengths is its diverse and supportive community."```
                - Some Examples
                - ![string1](image-6.png)
                - ![alt text](image-7.png)
@@ -223,8 +231,7 @@ Free Software: BSD license
                - ![alt text](image-14.png)
                - ![alt text](image-15.png)
 
-        - Numbers
-            - Numbers are used quite often in programming to keep score in games, represents data in visualizations, store information, store information in web application, and so on. Python treats numbers in several different ways, depending on how they're being used. Let's first look at how Python manages integers, because they're simplest to work with
+        - _Numbers_: Numbers are used quite often in programming to keep score in games, represents data in visualizations, store information, store information in web application, and so on. Python treats numbers in several different ways, depending on how they're being used. Let's first look at how Python manages integers, because they're simplest to work with
 
             - Integers
                 - You can add (+), subtract (-), multiple (*), and divide (/) integers in Python.
@@ -240,10 +247,10 @@ Free Software: BSD license
                 - ![alt text](image-18.png)
             - Multiple Assignment
                 - You can assign values to more than one variable using just a single line. This can help shorten your programs and make then easier to read; you'll use this technique most often when initializing a set of numbers. For example. here's how you can initialize the variables x,y,and z to zero:
-        - Constants
+        - _Constants_
             - A constant is like a variable whose value stays the same throughout the life of the program.Python doesn't have built-in constant types, but Python programers use all capital letters to indicate a variable should be treated as a constant and never be changed
             - ![Constants](image-19.png)
-        - Comments
+        - _Comments_
             - In Python, 
             - ```the hash mark (#) ``` indicates a comment. Anything following a hash mark in your code is ignored by the Python interpreter.
             - Shortcut for making comments in Jupyter Notebook: Ctrl+/
@@ -257,48 +264,58 @@ Free Software: BSD license
             - Python have a built-in method called as type which generally come in handy while figuring out the type of variable used in the program in the runtime.
             - If a single argument (object) is passed to type() built-in, it returns type of the given object. If three arguments (name, bases and dict) are passed, it returns a new type object. 
 
-            - ``` x = 5```
-            - ```s = "geeksforgeeks"```
-            - ```y = [1, 2, 3]```
-            - ``` print(type(x))```
-            - ```print(type(s))```
-            - ```print(type(y))```
+                 ``` x = 5```
+                
+                ```s = "geeksforgeeks"```
+             
+                ```y = [1, 2, 3]```
+                
+                ``` print(type(x))```
+                
+                ```print(type(s))```
+                
+                ```print(type(y))```
 
             - Results
-            - ```<class 'int'>```
-            - ```<class 'str'>```
-            - ```<class 'list'>```
+            
+                ```<class 'int'>```
+                
+                ```<class 'str'>```
+                
+                ```<class 'list'>```
 
-            - In Python, ```sqaure bracket []``` indicate a list, and individual elements in the list are seperated by commas. Here's a simple example of a list that contains a few kinds of bicyles: 
-
-            - ![List 01 image](image-21.png)) 
+        - In Python, ```sqaure bracket []``` indicate a list, and individual elements in the list are seperated by commas. 
+        
+            - Here's a simple example of a list that contains a few kinds of bicyles: 
+                ![List 01 image](image-21.png)
             
             - Assessing Elements in a list
-            - ![List image 02](image-22.png)
+            
+                ![List image 02](image-22.png)
              
             - You can format the element 'trek' more neatly by using the title() method: 
-            - ![List03](image-23.png)
+                ![List03](image-23.png)
             
             - Index Position Start at 0, Not 1
-            - ![List 04](image-24.png)
+                ![List 04](image-24.png)
 
             - Using Individual Values from a List
-            - ![List 04](image-25.png)
+                ![List 04](image-25.png)
 
             - Modifying Elements in a list
-            - ![List 05](image-26.png)
+                ![List 05](image-26.png)
 
             - Adding Elements to a list
-            - ![List 06](image-27.png)
+                ![List 06](image-27.png)
 
             - Inserting Elements into a List
-            - ![List 07](image-28.png)
+                ![List 07](image-28.png)
 
             - Removing Elements from a List
-            - ![List 08](image-29.png)
+                ![List 08](image-29.png)
 
             - Removing an Item using the pop() Method
-            - ![List 09](image-30.png)
+                ![List 09](image-30.png)
 
             - Popping Items from any position in a list ```pop()```
             
@@ -309,7 +326,7 @@ Free Software: BSD license
                 - Sorting a lsit temporarily with the ```sorted()``` function
 
             - Printing a List in Reverse Order ```.reverse```
-            
+         
             - Finding the length of a list ```len()```
 
     - **04 Working with Lists**
