@@ -268,7 +268,9 @@ Free Software: BSD license
                 - You can assign values to more than one variable using just a single line. This can help shorten your programs and make then easier to read; you'll use this technique most often when initializing a set of numbers. For example. here's how you can initialize the variables x,y,and z to zero:
         - _Constants_
             - A constant is like a variable whose value stays the same throughout the life of the program.Python doesn't have built-in constant types, but Python programers use all capital letters to indicate a variable should be treated as a constant and never be changed
+
                 ![Constants](image-19.png)
+
         - _Comments_
             - In Python, ```the hash mark (#) ``` indicates a comment. Anything following a hash mark in your code is ignored by the Python interpreter.
             - Shortcut for making comments in Jupyter Notebook: Ctrl+/
@@ -312,28 +314,37 @@ Free Software: BSD license
                 ![List image 02](image-22.png)
              
             - You can format the element 'trek' more neatly by using the title() method: 
+
                 ![List03](image-23.png)
             
             - Index Position Start at 0, Not 1
+
                 ![List 04](image-24.png)
 
             - Using Individual Values from a List
+
                 ![List 04](image-25.png)
 
             - Modifying Elements in a list
+
                 ![List 05](image-26.png)
 
             - Adding Elements to a list
+
                 ![List 06](image-27.png)
 
             - Inserting Elements into a List
+
                 ![List 07](image-28.png)
 
             - Removing Elements from a List
+
                 ![List 08](image-29.png)
 
             - Removing an Item using the pop() Method
+            
                 ![List 09](image-30.png)
+
 
             - Popping Items from any position in a list ```pop()```
             
