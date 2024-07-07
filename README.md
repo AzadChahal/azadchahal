@@ -305,7 +305,7 @@ Free Software: BSD license
                 ```<class 'list'>```
 
         - In Python, ```sqaure bracket []``` indicate a list, and individual elements in the list are seperated by commas. 
-        
+            
             - Here's a simple example of a list that contains a few kinds of bicyles: 
                 ![List 01 image](image-21.png)
             
@@ -342,7 +342,7 @@ Free Software: BSD license
                 ![List 08](image-29.png)
 
             - Removing an Item using the pop() Method
-            
+
                 ![List 09](image-30.png)
 
 
@@ -359,6 +359,7 @@ Free Software: BSD license
             - Finding the length of a list ```len()```
 
     - **04 Working with Lists**
+
         - Looping through an entire list
         - Avoiding indentation errors
         - Making Numerical Lists
@@ -366,13 +367,16 @@ Free Software: BSD license
         - Tuples
         - Styling Your Code
 
-
-        -   Looping through an entire list ```magicians = ["alice", "david", "carolina"]```
-                                        ```for magician in magicians:```
-                                         ```print(magician)```
+        - Looping through an entire list 
             
-            - Doing More work within a for loop
-            - Doing somthing after a for loop
+            ```magicians = ["alice", "david", "carolina"]```
+            
+            ```for magician in magicians:```
+            
+            ```print(magician)```
+            
+        - Doing More work within a for loop
+        - Doing somthing after a for loop
 
         - Avoiding Identation Errors
             - Forget to Ident: Always indent the line after the ```for``` statement in a loop.
